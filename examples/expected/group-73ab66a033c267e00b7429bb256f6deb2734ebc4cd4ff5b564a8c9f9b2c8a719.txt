@@ -1,0 +1,5 @@
+event_id|group|category|quantity
+EV001|ALPHA|created|10
+EV004|ALPHA|updated|2
+EV007|ALPHA|created|6
+EV010|ALPHA|updated|9

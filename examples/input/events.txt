@@ -1,0 +1,13 @@
+event_id|group|category|quantity
+EV001|ALPHA|created|10
+EV002|BETA|updated|5
+EV003|GAMMA|created|8
+EV004|ALPHA|updated|2
+EV005|BETA|created|12
+EV006|GAMMA|updated|3
+EV007|ALPHA|created|6
+EV008|BETA|updated|7
+EV009|GAMMA|created|4
+EV010|ALPHA|updated|9
+EV011|BETA|created|11
+EV012|GAMMA|updated|1

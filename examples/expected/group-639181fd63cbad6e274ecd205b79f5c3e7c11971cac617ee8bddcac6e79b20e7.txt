@@ -1,0 +1,5 @@
+event_id|group|category|quantity
+EV002|BETA|updated|5
+EV005|BETA|created|12
+EV008|BETA|updated|7
+EV011|BETA|created|11

@@ -1,0 +1,31 @@
+{
+  "delimiter": "|",
+  "files": [
+    {
+      "bytes": 122,
+      "group": "ALPHA",
+      "name": "group-73ab66a033c267e00b7429bb256f6deb2734ebc4cd4ff5b564a8c9f9b2c8a719.txt",
+      "records": 4,
+      "sha256": "260e6ff5bbc8f23a217fb569ccf11ef741ad92d6ef5085bd8a7837441b59c810"
+    },
+    {
+      "bytes": 119,
+      "group": "BETA",
+      "name": "group-639181fd63cbad6e274ecd205b79f5c3e7c11971cac617ee8bddcac6e79b20e7.txt",
+      "records": 4,
+      "sha256": "5bb490f44d32e9c3fb2b27b7fcea58044bc024d7e2218b7b7bb11fb09690672b"
+    },
+    {
+      "bytes": 121,
+      "group": "GAMMA",
+      "name": "group-9b192f676f7bc594d854a85019729dfde8e77b2c37eeb5a4e47b514fcfb5986c.txt",
+      "records": 4,
+      "sha256": "415070cd7cc6ad2fec61fa7665fcbec906e7f1cf9decf8e69899b87975b70bdf"
+    }
+  ],
+  "group_column": "group",
+  "header_sha256": "ff7aa82a4d48b3350dce5f67d3b165ccc7c019760cfcd7ed39ff7914c537ee3a",
+  "records": 12,
+  "source_sha256": "72ee70a2972fd0628d9b776f2aa8a5526ce823112efc442ccb472f1ac214d3da",
+  "version": 1
+}

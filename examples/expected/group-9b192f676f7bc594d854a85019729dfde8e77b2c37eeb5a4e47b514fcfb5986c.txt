@@ -1,0 +1,5 @@
+event_id|group|category|quantity
+EV003|GAMMA|created|8
+EV006|GAMMA|updated|3
+EV009|GAMMA|created|4
+EV012|GAMMA|updated|1
